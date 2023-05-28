@@ -1,1 +1,1 @@
-<img src="./readme">
+<img src="./readme.svg">
